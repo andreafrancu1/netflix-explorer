@@ -9,7 +9,8 @@ I’m building this project step by step to simulate a real DS workflow. Here’
 - [x]  Run initial EDA (head, info, describe, null checks)
 - [x]  Check for and remove any duplicate data
 - [x]  Check for missing values and handle data imputation case by case
-- [ ]  Build quick plots (top genres, ratings distribution)
+- [x]  Create helper functions for plotting (plot_box(), plot_pie())
+- [x]  Visualize categorical and numerical feature distributions
 - [ ]  Write SQL-style queries (joins, groupbys, aggregations)
 - [ ]  Apply statistical analysis (t-test, ANOVA, guardrails)
 - [ ]  Design dashboard / visual storytelling (Plotly or Streamlit)
