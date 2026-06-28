@@ -1,6 +1,10 @@
 # netflix-explorer
 Netflix data exploration (work in progress)
 
+## Project Report
+
+For a shorter summary of the project, including key cleaning decisions and charts, see the [project report](Netflix_Explorer_Report.md).
+
 This repo is actively being built.
 I’m building this project step by step to simulate a real DS workflow. Here’s what’s done and what’s coming next:
 
